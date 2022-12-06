@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/phenrique7/lab-bikcraft#readme",
   "devDependencies": {
-    "cssnano": "^4.1.7",
+    "cssnano": "^5.1.14",
     "gulp": "^4.0.0",
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
